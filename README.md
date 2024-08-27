@@ -1,2 +1,2 @@
-# Fundamentos---Vari-veis
+# Fundamentos
 Atividades resolvidas em Python no Google Colab
